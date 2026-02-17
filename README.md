@@ -26,9 +26,6 @@ Mi trabajo se mueve entre **código, análisis y diseño de soluciones**, especi
 
 - **Modelos de Machine Learning**  
   Implementación de modelos supervisados y no supervisados para clasificación, segmentación y análisis exploratorio, priorizando interpretación y utilidad.
-
-Este repositorio refleja proyectos **ya desarrollados**, iterados y usados como parte de procesos reales.
-
 ---
 
 <blockquote>
